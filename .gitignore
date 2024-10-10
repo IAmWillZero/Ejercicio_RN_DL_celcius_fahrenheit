@@ -1,0 +1,10 @@
+
+### `.gitignore`
+
+```plaintext
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+#modelo_temperatura.h5  # Archivo del modelo guardado
